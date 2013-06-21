@@ -1,0 +1,4 @@
+  <owl:ObjectProperty rdf:about="&Programme_Histoire_College_France;contains">
+        <owl:inverseOf rdf:resource="&Programme_Histoire_College_France;isPartOf"/>
+        <rdfs:subPropertyOf rdf:resource="&owl;topObjectProperty"/>
+    </owl:ObjectProperty>
